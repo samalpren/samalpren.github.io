@@ -27,7 +27,7 @@ h2 {
 }
 
 .header {
-    background: url(https://cdn.pixabay.com/photo/2015/09/11/21/03/city-936398_960_720.jpg) no-repeat center center; 
+    background: url(images/city-936398_1920.jpg) no-repeat center center; 
     background-size: cover;
     height: 500px;
     display: flex;
@@ -38,12 +38,12 @@ h2 {
 
 .headerText {
     font-size: 60px;
-    font-family: font-family: 'Bungee Shade', cursive;
+    font-family: 'Bungee Shade', cursive;
     color: #ffdba3;
     opacity: 0.65;
     border: 22px solid #fffaf2;
-    border-image: url(https://cdn.pixabay.com/photo/2018/03/07/07/55/abstract-3205415_960_720.jpg);
-    border-image-slice: 80;
+    /*border-image: url(/Users/samalpren/Desktop/SamDev/samalpren.github.io/images/pattern-2054297_1920.jpg);
+    border-image-slice: 80;*/
     text-align: center;
 }
 
@@ -127,6 +127,7 @@ button {
 
 footer {
     height: 100px;
-    background-image: url(https://cdn.pixabay.com/photo/2018/03/07/07/55/abstract-3205415_960_720.jpg);
+    /*background-image: url(https://cdn.pixabay.com/photo/2018/03/07/07/55/abstract-3205415_960_720.jpg);*/
     margin-top: 50px;
+    color: #7c7c7c;
 }
